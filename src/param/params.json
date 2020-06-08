@@ -1,0 +1,7 @@
+{
+    "name":"Connekt",
+    "logoURL":"../../static/logo1.png",
+    "LOCAL_HOST":"http://localhost:8080/",
+    "NEW_RFQ_DEFAULT_MESSAGE":"Please find the below list of requirement. Revert back soon.",
+    "NEW_QUOTE_DEFAULT_MESSAGE":""
+}
